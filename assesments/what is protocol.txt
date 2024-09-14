@@ -1,1 +1,10 @@
-hello
+A protocol is a set of rules that defines how data is
+ transmitted and received over a network, ensuring that different devices and
+ systems can communicate effectively. In the context of the internet, protocols dictate how
+ information should be formatted, transmitted, and processed so that it can
+ be understood by both web servers and browsers.
+
+For example, **HTTP** (HyperText Transfer Protocol) is a common protocol used for 
+transferring web pages, and **HTTPS** (HTTP Secure) is a more secure version that encrypts the data.
+ Protocols make sure that data sent from one computer can be correctly understood by another,
+ allowing seamless communication across the internet.

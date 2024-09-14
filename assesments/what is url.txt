@@ -1,0 +1,11 @@
+A URL, or Uniform Resource Locator, is the specific address used to access a resource on the internet,
+ such as a website, file, or service. 
+It's like the street address for a website, telling the browser exactly where to go to find a particular page or file. 
+
+A typical URL has several parts:
+1. Protocol: Specifies how the browser should communicate with the server (e.g., `https://`
+ for secure websites).
+2. Domain name: The name of the website (e.g., `www.example.com`).
+3. Path: The specific location of a page or resource on the website (e.g., `/about-us`).
+
+ the URL helps direct users to the exact location of the content they want to view online.

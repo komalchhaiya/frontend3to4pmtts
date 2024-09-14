@@ -1,0 +1,4 @@
+A web browser is a software application that allows
+ users to access and view websites on the internet.
+ It interprets the code from web servers (like HTML, CSS, and JavaScript) and displays the content in a user-friendly
+ format, such as text, images, and videos.

@@ -1,0 +1,5 @@
+A website is a digital platform hosted on the internet that allows
+ users to access information, services, or content such as text, images, videos, and more.
+It is made up of web pages, each identified by a unique URL .
+Websites can serve a variety of purposes, including business, entertainment, education, or communication, 
+and are accessible via web browsers on computers, smartphones, or other devices connected to the internet.
